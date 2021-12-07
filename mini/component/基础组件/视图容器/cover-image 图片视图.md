@@ -1,6 +1,6 @@
 
 # 简介
-覆盖在原生组件之上的图片视图，可覆盖的原生组件同  [cover-view](component/cover-view) 一致。
+覆盖在原生组件之上的图片视图，可覆盖的原生组件同 [cover-view](component/cover-view) 一致。
 
 ## 使用限制
 **版本要求：** 基础库 1.10.0 及以上，若版本较低，建议做 [兼容处理](/mini/framework/compatibility)。
